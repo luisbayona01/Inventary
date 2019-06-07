@@ -1,0 +1,1 @@
+la carpeta Inventary contiene el proyecto en laravel
